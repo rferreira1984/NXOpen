@@ -1,0 +1,1 @@
+﻿1>------ Build started: Project: Custom_Mascarello, Configuration: Debug Any CPU ------

@@ -1,0 +1,6 @@
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\ConjuntoX_Pesquisa\bin\Debug\ConjuntoX_Pesquisa.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\ConjuntoX_Pesquisa\bin\Debug\ConjuntoX_Pesquisa.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\ConjuntoX_Pesquisa\obj\Debug\ConjuntoX_Pesquisa.csproj.AssemblyReference.cache
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\ConjuntoX_Pesquisa\obj\Debug\ConjuntoX_Pesquisa.csproj.CoreCompileInputs.cache
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\ConjuntoX_Pesquisa\obj\Debug\ConjuntoX_Pesquisa.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\ConjuntoX_Pesquisa\obj\Debug\ConjuntoX_Pesquisa.pdb

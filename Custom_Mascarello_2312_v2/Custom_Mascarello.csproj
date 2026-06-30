@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{517EC04D-1EE3-4FEF-88A2-8510BD44C86E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Custom_Mascarello</RootNamespace>
+    <AssemblyName>Custom_Mascarello3</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AppCOM, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\calculo_de_peso\AppCOM\bin\Debug\AppCOM.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedLoader">
+      <HintPath>..\..\Library\ManagedLoader.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin">
+      <HintPath>C:\Users\renato.ferreira\Downloads\MaterialSkin-master\MaterialSkin-master\MaterialSkin\bin\Debug\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>C:\Users\renato.ferreira\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=9.0.0.6, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.9.0.6\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MiniSnap">
+      <HintPath>..\..\Library\MiniSnap.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector Net 8.0.11\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NXOpen, Version=9.0.0.19, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Siemens\NX2312\NXBIN\managed\NXOpen.dll</HintPath>
+    </Reference>
+    <Reference Include="NXOpen.UF, Version=9.0.0.19, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Siemens\NX2312\NXBIN\managed\NXOpen.UF.dll</HintPath>
+    </Reference>
+    <Reference Include="NXOpen.Utilities, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Siemens\NX2312\NXBIN\managed\NXOpen.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="NXOpenUI, Version=9.0.0.19, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Siemens\NX2312\NXBIN\managed\NXOpenUI.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="pskernel_net">
+      <HintPath>..\..\Library\pskernel_net.dll</HintPath>
+    </Reference>
+    <Reference Include="Save_organiza_sequencia_itens">
+      <HintPath>..\Validacoes_aplicacao\Validacoes_aplicacao\bin\Debug\Save_organiza_sequencia_itens.dll</HintPath>
+    </Reference>
+    <Reference Include="Snap">
+      <HintPath>..\..\..\Siemens\NX90\UGII\managed\Snap.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Grid.Base, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Grid.Base.20.2.0.36\lib\net46\Syncfusion.Grid.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Grid.Windows, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Grid.Windows.20.2.0.36\lib\net46\Syncfusion.Grid.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Licensing, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Licensing.20.2.0.36\lib\net46\Syncfusion.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Shared.Base, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Shared.Base.20.2.0.36\lib\net46\Syncfusion.Shared.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Shared.Windows, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Shared.Windows.20.2.0.36\lib\net46\Syncfusion.Shared.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SpellChecker.Base, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.SpellChecker.Base.20.2.0.36\lib\net46\Syncfusion.SpellChecker.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Tools.Base, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Tools.Base.20.2.0.36\lib\net46\Syncfusion.Tools.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Tools.Windows, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Tools.Windows.20.2.0.36\lib\net46\Syncfusion.Tools.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Pipelines, Version=9.0.0.6, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Pipelines.9.0.6\lib\net462\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Text.Encodings.Web, Version=9.0.0.6, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encodings.Web.9.0.6\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=9.0.0.6, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Json.9.0.6\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TcLogging, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcLogging.dll</HintPath>
+    </Reference>
+    <Reference Include="TcMemNetBindingInterface, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcMemNetBindingInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="TcServerNetBinding, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcServerNetBinding.dll</HintPath>
+    </Reference>
+    <Reference Include="TcServerNetBindingInterface, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcServerNetBindingInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaBomStrong, Version=9000.1.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaBomStrong.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaBomTypes, Version=9000.1.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaBomTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaCadStrong, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaCadStrong.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaClient, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaClient.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaCommon, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaCoreStrong, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaCoreStrong.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaQueryStrong, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaQueryStrong.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaStrongModel, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaStrongModel.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaStructureManagementStrong, Version=9000.1.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaStructureManagementStrong.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaStructureManagementTypes, Version=9000.1.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaStructureManagementTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="TcSoaWorkflowStrong, Version=2312.0.0.0, Culture=neutral, PublicKeyToken=0edd5b5ddd601444, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TcSoaWorkflowStrong.dll</HintPath>
+    </Reference>
+    <Reference Include="TC_NX_SOA_TEAMCENTER, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SOA\TC_NX_SOA_TEAMCENTER.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZstdSharp">
+      <HintPath>..\..\Projeto_2025\SOA_MASCARELLO\TC_NX_SOA_MASCARELLO\bin\x64\Debug\ZstdSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="atualizacao_fam_2312.cs" />
+    <Compile Include="BuscaDadosFicha.cs" />
+    <Compile Include="busca_itens_tarefa.cs" />
+    <Compile Include="ClientRequest.cs" />
+    <Compile Include="conexao_bd.cs" />
+    <Compile Include="conexao_db_TeamCenter.cs" />
+    <Compile Include="conexao_sim.cs" />
+    <Compile Include="frm_edit_fam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_edit_fam.Designer.cs">
+      <DependentUpon>frm_edit_fam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_questions .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_questions .Designer.cs">
+      <DependentUpon>frm_questions .cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_pos_variaveis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_pos_variaveis.Designer.cs">
+      <DependentUpon>frm_pos_variaveis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_edit_pos_compcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_edit_pos_compcs.Designer.cs">
+      <DependentUpon>frm_edit_pos_compcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_motivo_alteracao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_motivo_alteracao.Designer.cs">
+      <DependentUpon>frm_motivo_alteracao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_pesquisa_fam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_pesquisa_fam.Designer.cs">
+      <DependentUpon>frm_pesquisa_fam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Configurador_2025 .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Configurador_2025 .Designer.cs">
+      <DependentUpon>frm_Configurador_2025 .cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_selecionar_mp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_selecionar_mp.Designer.cs">
+      <DependentUpon>frm_selecionar_mp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_select_boletim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_select_boletim.designer.cs">
+      <DependentUpon>frm_select_boletim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerar_pdf.cs" />
+    <Compile Include="item_rodoviarios.cs" />
+    <Compile Include="item_tarefas.cs" />
+    <Compile Include="Listar_itens.cs" />
+    <Compile Include="NXFeatureExtractor.cs" />
+    <Compile Include="global_class.cs" />
+    <Compile Include="SaveAS.cs" />
+    <Compile Include="Search_Tampa_Inspec .cs" />
+    <Compile Include="Update.cs" />
+    <Compile Include="Codificar.cs" />
+    <Compile Include="Clean.cs" />
+    <Compile Include="Create_Tubos_cnc.cs" />
+    <Compile Include="frm_Configurador_S3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Configurador_S3.Designer.cs">
+      <DependentUpon>frm_Configurador_S3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Create_c_material.cs" />
+    <Compile Include="frm_codigo_datasul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_codigo_datasul.Designer.cs">
+      <DependentUpon>frm_codigo_datasul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Dutos_AC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Dutos_AC.Designer.cs">
+      <DependentUpon>frm_Dutos_AC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Especificos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Especificos.Designer.cs">
+      <DependentUpon>frm_Especificos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_informativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_informativo.Designer.cs">
+      <DependentUpon>frm_informativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Mapa_Jan_Borracha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Mapa_Jan_Borracha.Designer.cs">
+      <DependentUpon>frm_Mapa_Jan_Borracha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Gerenciador_NX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Gerenciador_NX.Designer.cs">
+      <DependentUpon>frm_Gerenciador_NX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MCC.Designer.cs">
+      <DependentUpon>frm_MCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search.cs" />
+    <Compile Include="frm_informacao_itens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_informacao_itens.Designer.cs">
+      <DependentUpon>frm_informacao_itens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lista_de_Corte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lista_de_Corte.Designer.cs">
+      <DependentUpon>frm_Lista_de_Corte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PortaPacotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PortaPacotes.Designer.cs">
+      <DependentUpon>frm_PortaPacotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_result_search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_result_search.Designer.cs">
+      <DependentUpon>frm_result_search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Chapas.cs" />
+    <Compile Include="Create_Chapa.cs" />
+    <Compile Include="frm_Configurador_S4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Configurador_S4.Designer.cs">
+      <DependentUpon>frm_Configurador_S4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Configurador_Teto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Configurador_Teto.Designer.cs">
+      <DependentUpon>frm_Configurador_Teto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Tubos_cnc.cs" />
+    <Compile Include="Search_Tubos.cs" />
+    <Compile Include="Create_Tubos.cs" />
+    <Compile Include="frm_Configurador_Projeto_M4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Configurador_Projeto_M4.Designer.cs">
+      <DependentUpon>frm_Configurador_Projeto_M4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Create.cs" />
+    <Compile Include="Curve.cs" />
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Configurar_Bagageiros_M4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Configurar_Bagageiros_M4.Designer.cs">
+      <DependentUpon>frm_Configurar_Bagageiros_M4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Criar_Cj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Criar_Cj.Designer.cs">
+      <DependentUpon>frm_Criar_Cj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Mascarello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Mascarello.Designer.cs">
+      <DependentUpon>frm_Mascarello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Tubo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Tubo.Designer.cs">
+      <DependentUpon>frm_Tubo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicial.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Material_Tubos.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_Configurador_S3.resx">
+      <DependentUpon>frm_Configurador_S3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_codigo_datasul.resx">
+      <DependentUpon>frm_codigo_datasul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Configurador_Projeto_M4.resx">
+      <DependentUpon>frm_Configurador_Projeto_M4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Configurador_S4.resx">
+      <DependentUpon>frm_Configurador_S4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Configurador_Teto.resx">
+      <DependentUpon>frm_Configurador_Teto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Configurar_Bagageiros_M4.resx">
+      <DependentUpon>frm_Configurar_Bagageiros_M4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Criar_Cj.resx">
+      <DependentUpon>frm_Criar_Cj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Dutos_AC.resx">
+      <DependentUpon>frm_Dutos_AC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_edit_fam.resx">
+      <DependentUpon>frm_edit_fam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_questions .resx">
+      <DependentUpon>frm_questions .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_pos_variaveis.resx">
+      <DependentUpon>frm_pos_variaveis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_edit_pos_compcs.resx">
+      <DependentUpon>frm_edit_pos_compcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Especificos.resx">
+      <DependentUpon>frm_Especificos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_informacao_itens.resx">
+      <DependentUpon>frm_informacao_itens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_informativo.resx">
+      <DependentUpon>frm_informativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lista_de_Corte.resx">
+      <DependentUpon>frm_Lista_de_Corte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Mapa_Jan_Borracha.resx">
+      <DependentUpon>frm_Mapa_Jan_Borracha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Mascarello.resx">
+      <DependentUpon>frm_Mascarello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MCC.resx">
+      <DependentUpon>frm_MCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_motivo_alteracao.resx">
+      <DependentUpon>frm_motivo_alteracao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_pesquisa_fam.resx">
+      <DependentUpon>frm_pesquisa_fam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Configurador_2025 .resx">
+      <DependentUpon>frm_Configurador_2025 .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PortaPacotes.resx">
+      <DependentUpon>frm_PortaPacotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_result_search.resx">
+      <DependentUpon>frm_result_search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_selecionar_mp.resx">
+      <DependentUpon>frm_selecionar_mp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_select_boletim.resx">
+      <DependentUpon>frm_select_boletim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Tubo.resx">
+      <DependentUpon>frm_Tubo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Gerenciador_NX.resx">
+      <DependentUpon>frm_Gerenciador_NX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Resources\Fam_000320.png" />
+    <None Include="Resources\FAM_TB.jpg" />
+    <None Include="Resources\Lupa_32x32.png" />
+    <None Include="Resources\lupa20x20.png" />
+    <None Include="Resources\add20x20.png" />
+    <None Include="Resources\mundo_mapa_azul.jpg" />
+    <None Include="Resources\FAM_CHAPA.jpg" />
+    <None Include="Resources\logo_mascarello.png" />
+    <None Include="Resources\Add.JPG" />
+    <None Include="Resources\LE_S3.JPG" />
+    <None Include="Resources\cursor.png" />
+    <None Include="Resources\LD_PT_S3.JPG" />
+    <None Include="Resources\LE_S31.JPG" />
+    <None Include="Resources\LD_PT_S31.JPG" />
+    <None Include="Resources\LD_S3.JPG" />
+    <None Include="Resources\close-circular-button-of-a-cross.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\VISTA_LD_GRVIA.JPG" />
+    <None Include="Resources\VISTA_LD_PD_PC_GRVIA.JPG" />
+    <None Include="Resources\VISTA_LD_PD_PC_PT_GRVIA.JPG" />
+    <None Include="Resources\VISTA_LD_PD_PT_GRVIA.JPG" />
+    <None Include="Resources\VISTA_LE_GRVIA.JPG" />
+    <None Include="Resources\IMG.JPG" />
+    <None Include="Resources\update-arrows.png" />
+    <None Include="Resources\inverter.jpg" />
+    <Content Include="Mascarello.ico" />
+    <None Include="Resources\PERFIL_BASE.JPG" />
+    <None Include="Resources\PERFIL_BASE1.JPG" />
+    <None Include="Resources\PERFIL_BASE2.JPG" />
+    <None Include="Resources\213320.JPG" />
+    <None Include="Resources\NOVA_LOGOMARCA_MASCARELLO_reduzida_1.png" />
+    <None Include="Resources\LOGOMARCA_MASCARELLO_2019.jpg" />
+    <None Include="Resources\update.png" />
+    <None Include="Resources\update-16.png" />
+    <None Include="Resources\update-24.png" />
+    <None Include="Resources\Icon1.ico" />
+    <None Include="Resources\teste.ico" />
+    <Content Include="XMLFile1.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

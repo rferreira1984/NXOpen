@@ -1,0 +1,720 @@
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\Custom_Mascarello.dll
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\Custom_Mascarello.pdb
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\ManagedLoader.dll
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\MiniSnap.dll
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpen.dll
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpen.UF.dll
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpen.Utilities.dll
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpenUI.dll
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\pskernel_net.dll
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\MiniSnap.xml
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpen.xml
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpen.Utilities.xml
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpenUI.xml
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.csproj.GenerateResource.Cache
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.dll
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.pdb
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.csprojResolveAssemblyReference.cache
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Familias.resources
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.Configurador_Projeto.resources
+C:\PROJETO_PLM\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\Custom_Mascarello.pdb
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\MiniSnap.xml
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpen.xml
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpen.Utilities.xml
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpenUI.xml
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.csprojResolveAssemblyReference.cache
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.Configurador_Projeto.resources
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Familias.resources
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.csproj.GenerateResource.Cache
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.pdb
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\Custom_Mascarello.dll
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.dll
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\Snap.dll
+C:\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\Snap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\Custom_Mascarello.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\Custom_Mascarello.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\MiniSnap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpen.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpen.Utilities.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\NXOpenUI.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\Snap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.csprojResolveAssemblyReference.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Familias.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.csproj.GenerateResource.Cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\MaterialSkin.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\MaterialSkin.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\bin\Debug\MetroFramework.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_result_search.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\Custom_Mascarello.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\Custom_Mascarello.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\MaterialSkin.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\MetroFramework.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\MaterialSkin.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\MiniSnap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\NXOpen.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\NXOpen.Utilities.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\NXOpenUI.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\Snap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.csprojResolveAssemblyReference.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_result_search.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.csproj.GenerateResource.Cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\bin\Debug\Custom_Mascarello.dll.config
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_informativo.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V1\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MetroFramework.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MaterialSkin.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MiniSnap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.Utilities.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpenUI.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Snap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csprojResolveAssemblyReference.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informativo.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_result_search.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.GenerateResource.Cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_MCC.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MySql.Data.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Google.Protobuf.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MySql.Data.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello2.dll.config
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello2.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello2.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello2.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello2.pdb
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MetroFramework.dll
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MySql.Data.dll
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Google.Protobuf.dll
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MaterialSkin.pdb
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MiniSnap.xml
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MySql.Data.xml
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.xml
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.Utilities.xml
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpenUI.xml
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Snap.xml
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csprojResolveAssemblyReference.cache
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informativo.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_MCC.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_result_search.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.GenerateResource.Cache
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.dll.config
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.dll
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.pdb
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.dll
+C:\Renato\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MetroFramework.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MySql.Data.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Google.Protobuf.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MaterialSkin.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MiniSnap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MySql.Data.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.Utilities.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpenUI.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Snap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csprojResolveAssemblyReference.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informativo.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_MCC.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_result_search.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.GenerateResource.Cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello3.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello3.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello4.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello4.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello5.dll.config
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello5.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello5.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello5.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello5.pdb
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.dll.config
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.dll
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.pdb
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MetroFramework.dll
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MySql.Data.dll
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Google.Protobuf.dll
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MaterialSkin.pdb
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MiniSnap.xml
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MySql.Data.xml
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.xml
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.Utilities.xml
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpenUI.xml
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Snap.xml
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csprojResolveAssemblyReference.cache
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informativo.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_MCC.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_result_search.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.GenerateResource.Cache
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.dll
+C:\user\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Google.Protobuf.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MaterialSkin.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MiniSnap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\MySql.Data.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpen.Utilities.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\NXOpenUI.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Snap.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csprojAssemblyReference.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informativo.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_MCC.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_result_search.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.GenerateResource.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CopyComplete
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Base.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Windows.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Licensing.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Base.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Windows.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Base.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Windows.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Base.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Windows.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Base.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Windows.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Base.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Windows.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello1.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello2.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello3.dll.config
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello3.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello3.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello3.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Custom_Mascarello\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello3.pdb
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Snap.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Base.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Licensing.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Base.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Base.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Google.Protobuf.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\MaterialSkin.pdb
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\MiniSnap.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\MySql.Data.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\NXOpen.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\NXOpen.Utilities.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\NXOpenUI.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Snap.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Base.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Base.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Base.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.AssemblyReference.cache
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informativo.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_MCC.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_result_search.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.GenerateResource.cache
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CopyComplete
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello14.dll.config
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello14.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello14.pdb
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello14.dll
+C:\GERENCIADOR\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello14.pdb
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Base.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Licensing.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Base.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Base.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Base.xml
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Base.xml
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Base.xml
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.AssemblyReference.cache
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informativo.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_MCC.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_result_search.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.GenerateResource.cache
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_select_boletim.resources
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_M.280DB6B4.Up2Date
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.dll.config
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello.pdb
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.dll
+C:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Newtonsoft.Json.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Windows.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Licensing.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Windows.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Windows.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Newtonsoft.Json.xml
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Grid.Windows.xml
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Shared.Windows.xml
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Syncfusion.Tools.Windows.xml
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.AssemblyReference.cache
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_informativo.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_MCC.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_result_search.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_select_boletim.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.GenerateResource.cache
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_M.280DB6B4.Up2Date
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\AppCOM.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\AppCOM.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello1.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello2.dll.config
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello2.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\bin\Debug\Custom_Mascarello2.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello2.dll
+D:\DEV_MASCARELLO_2024\GIT\nx\nx_siemens\Custom_Mascarello_V2\obj\Debug\Custom_Mascarello2.pdb
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\AppCOM.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Newtonsoft.Json.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.UF.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.Utilities.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpenUI.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Grid.Base.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Grid.Windows.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Licensing.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Shared.Base.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Shared.Windows.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.SpellChecker.Base.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Tools.Base.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Tools.Windows.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\AppCOM.pdb
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Newtonsoft.Json.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.UF.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.Utilities.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpenUI.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Grid.Base.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Grid.Windows.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Shared.Base.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Shared.Windows.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.SpellChecker.Base.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Tools.Base.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Tools.Windows.xml
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.csproj.AssemblyReference.cache
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_informativo.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_MCC.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_result_search.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_select_boletim.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.csproj.GenerateResource.cache
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_M.280DB6B4.Up2Date
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Custom_Mascarello2.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Custom_Mascarello3.dll.config
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Custom_Mascarello3.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Custom_Mascarello3.pdb
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello3.dll
+D:\DEV_MASCARELLO_2024_2\GIT\nx\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello3.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Newtonsoft.Json.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.UF.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.Utilities.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpenUI.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Grid.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Grid.Windows.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Licensing.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Shared.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Shared.Windows.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.SpellChecker.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Tools.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Tools.Windows.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Newtonsoft.Json.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.UF.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpen.Utilities.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\NXOpenUI.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Grid.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Grid.Windows.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Shared.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Shared.Windows.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.SpellChecker.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Tools.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Syncfusion.Tools.Windows.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.csproj.AssemblyReference.cache
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_informativo.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_MCC.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_result_search.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_select_boletim.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.csproj.GenerateResource.cache
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_M.280DB6B4.Up2Date
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Save_organiza_sequencia_itens.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Save_organiza_sequencia_itens.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_edit_fam.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.frm_pesquisa_fam.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Custom_Mascarello.dll.config
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Custom_Mascarello.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\bin\Debug\Custom_Mascarello.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v1\obj\Debug\Custom_Mascarello.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Newtonsoft.Json.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\NXOpen.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\NXOpen.UF.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\NXOpen.Utilities.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\NXOpenUI.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Save_organiza_sequencia_itens.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Grid.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Grid.Windows.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Licensing.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Shared.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Shared.Windows.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Tools.Base.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Tools.Windows.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Buffers.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.IO.Pipelines.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Memory.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Numerics.Vectors.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Text.Encodings.Web.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Text.Json.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.ValueTuple.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcLogging.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcMemNetBindingInterface.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcServerNetBinding.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcServerNetBindingInterface.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaBomStrong.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaBomTypes.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaCadStrong.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaClient.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaCommon.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaCoreStrong.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaQueryStrong.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaStrongModel.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaStructureManagementStrong.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaStructureManagementTypes.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TcSoaWorkflowStrong.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\TC_NX_SOA_TEAMCENTER.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Newtonsoft.Json.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\NXOpen.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\NXOpen.UF.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\NXOpen.Utilities.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\NXOpenUI.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Save_organiza_sequencia_itens.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Grid.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Grid.Windows.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Shared.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Shared.Windows.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Tools.Base.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Syncfusion.Tools.Windows.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Buffers.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.IO.Pipelines.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Memory.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Numerics.Vectors.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Text.Encodings.Web.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Text.Json.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\System.ValueTuple.xml
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.csproj.AssemblyReference.cache
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Configurador_S3.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_codigo_datasul.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Configurador_Projeto_M4.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frmPrincipal.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Configurador_S4.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Configurador_Teto.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Configurar_Bagageiros_M4.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Criar_Cj.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Dutos_AC.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_edit_fam.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_questions.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_pos_variaveis.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_edit_pos_compcs.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Especificos.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_informacao_itens.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_informativo.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_contraventamentos.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Mapa_Jan_Borracha.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Mascarello.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_MCC.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_motivo_alteracao.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_pesquisa_fam.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Configurador_2025.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_PortaPacotes.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_result_search.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_selecionar_mp.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_select_boletim.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Tubo.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.frm_Gerenciador_NX.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.Properties.Resources.resources
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.csproj.GenerateResource.cache
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello.csproj.CoreCompileInputs.cache
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_M.280DB6B4.Up2Date
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Custom_Mascarello.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Custom_Mascarello1.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Custom_Mascarello2.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Custom_Mascarello3.dll.config
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Custom_Mascarello3.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Custom_Mascarello3.pdb
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Serilog.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Serilog.Sinks.Console.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Serilog.Sinks.File.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\bin\Debug\Serilog.Sinks.EventLog.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello3.dll
+D:\DEV_MASCARELLO_2024\GIT\nx_siemens\Custom_Mascarello_2312_v2\obj\Debug\Custom_Mascarello3.pdb

@@ -1,0 +1,13 @@
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\bin\Release\Startup_NX.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\bin\Release\Startup_NX.pdb
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\bin\Release\NXOpen.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\bin\Release\NXOpen.UF.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\bin\Release\NXOpen.Utilities.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\bin\Release\NXOpenUI.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\bin\Release\NXOpen.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\bin\Release\NXOpen.Utilities.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\bin\Release\NXOpenUI.xml
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\obj\Release\Startup_NX.csproj.CoreCompileInputs.cache
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\obj\Release\Startup_NX.csproj.CopyComplete
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\obj\Release\Startup_NX.dll
+S:\Eng.Produto\RENATO FERREIRA\C_SHARP\23_06_2021\PRG\Desenvolvedor\Startup_NX\Startup_NX\Startup_NX\obj\Release\Startup_NX.pdb
